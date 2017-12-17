@@ -204,8 +204,8 @@ nodes.nodeList = {
     },
     'poa': {
         'name': 'POA',
-        'blockExplorerTX': 'https://core-explorer.poa.network.io/tx/[[txHash]]',
-        'blockExplorerAddr': 'https://core-explorer.poa.network.io/account/[[address]]',
+        'blockExplorerTX': 'https://core-explorer.poa.network/tx/[[txHash]]',
+        'blockExplorerAddr': 'https://core-explorer.poa.network/account/[[address]]',
         'type': nodes.nodeTypes.POA,
         'eip155': true,
         'chainId': 99,
